@@ -1,0 +1,737 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		94433D7929117A7500EAF1CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433D7829117A7500EAF1CA /* ContentView.swift */; };
+		94433D7B29117A7700EAF1CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94433D7A29117A7700EAF1CA /* Assets.xcassets */; };
+		94433D7E29117A7800EAF1CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94433D7D29117A7800EAF1CA /* Preview Assets.xcassets */; };
+		94433D8829117A7800EAF1CA /* BellezaHairDresserAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433D8729117A7800EAF1CA /* BellezaHairDresserAppTests.swift */; };
+		94433D9229117A7800EAF1CA /* BellezaHairDresserAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433D9129117A7800EAF1CA /* BellezaHairDresserAppUITests.swift */; };
+		94433D9429117A7800EAF1CA /* BellezaHairDresserAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433D9329117A7800EAF1CA /* BellezaHairDresserAppUITestsLaunchTests.swift */; };
+		94433DA529117B8E00EAF1CA /* SnapCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DA129117B8E00EAF1CA /* SnapCardView.swift */; };
+		94433DA629117B8E00EAF1CA /* OfficialCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DA229117B8E00EAF1CA /* OfficialCardView.swift */; };
+		94433DA729117B8E00EAF1CA /* PrivateCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DA329117B8E00EAF1CA /* PrivateCardView.swift */; };
+		94433DA829117B8E00EAF1CA /* TopMyBiyouCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DA429117B8E00EAF1CA /* TopMyBiyouCardView.swift */; };
+		94433DB129117BC100EAF1CA /* KarteUserListDetailHistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DAD29117BC100EAF1CA /* KarteUserListDetailHistoryView.swift */; };
+		94433DB229117BC100EAF1CA /* SegmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DAE29117BC100EAF1CA /* SegmentView.swift */; };
+		94433DB329117BC100EAF1CA /* TopKarteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DAF29117BC100EAF1CA /* TopKarteView.swift */; };
+		94433DB429117BC100EAF1CA /* KarteUserDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DB029117BC100EAF1CA /* KarteUserDetailView.swift */; };
+		94433DD629117C0000EAF1CA /* TopMyPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DD529117C0000EAF1CA /* TopMyPageView.swift */; };
+		94433DDD29117C2F00EAF1CA /* MultiSelectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DDC29117C2F00EAF1CA /* MultiSelectView.swift */; };
+		94433DDF29117C3B00EAF1CA /* MyCalendarViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DDE29117C3B00EAF1CA /* MyCalendarViewModel.swift */; };
+		94433DE429117C4600EAF1CA /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DE029117C4600EAF1CA /* Settings.swift */; };
+		94433DE529117C4600EAF1CA /* EventCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DE129117C4600EAF1CA /* EventCell.swift */; };
+		94433DE629117C4600EAF1CA /* MyCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DE229117C4600EAF1CA /* MyCalendarView.swift */; };
+		94433DE729117C4600EAF1CA /* DetailCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DE329117C4600EAF1CA /* DetailCalendarView.swift */; };
+		94433DEA29117C7C00EAF1CA /* BellezaHairDresserApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DE829117C7B00EAF1CA /* BellezaHairDresserApp.swift */; };
+		94433DEB29117C7C00EAF1CA /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94433DE929117C7B00EAF1CA /* DetailView.swift */; };
+		94D7C10D2913746100B1011A /* InfiniteCalendar in Frameworks */ = {isa = PBXBuildFile; productRef = 94D7C10C2913746100B1011A /* InfiniteCalendar */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		94433D8429117A7800EAF1CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94433D6B29117A7500EAF1CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94433D7229117A7500EAF1CA;
+			remoteInfo = BellezaHairDresserApp;
+		};
+		94433D8E29117A7800EAF1CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 94433D6B29117A7500EAF1CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 94433D7229117A7500EAF1CA;
+			remoteInfo = BellezaHairDresserApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		94433D7329117A7500EAF1CA /* BellezaHairDresserApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BellezaHairDresserApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		94433D7829117A7500EAF1CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		94433D7A29117A7700EAF1CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		94433D7D29117A7800EAF1CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		94433D8329117A7800EAF1CA /* BellezaHairDresserAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BellezaHairDresserAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		94433D8729117A7800EAF1CA /* BellezaHairDresserAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BellezaHairDresserAppTests.swift; sourceTree = "<group>"; };
+		94433D8D29117A7800EAF1CA /* BellezaHairDresserAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BellezaHairDresserAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		94433D9129117A7800EAF1CA /* BellezaHairDresserAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BellezaHairDresserAppUITests.swift; sourceTree = "<group>"; };
+		94433D9329117A7800EAF1CA /* BellezaHairDresserAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BellezaHairDresserAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		94433DA129117B8E00EAF1CA /* SnapCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapCardView.swift; sourceTree = "<group>"; };
+		94433DA229117B8E00EAF1CA /* OfficialCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OfficialCardView.swift; sourceTree = "<group>"; };
+		94433DA329117B8E00EAF1CA /* PrivateCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrivateCardView.swift; sourceTree = "<group>"; };
+		94433DA429117B8E00EAF1CA /* TopMyBiyouCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopMyBiyouCardView.swift; sourceTree = "<group>"; };
+		94433DAD29117BC100EAF1CA /* KarteUserListDetailHistoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KarteUserListDetailHistoryView.swift; sourceTree = "<group>"; };
+		94433DAE29117BC100EAF1CA /* SegmentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegmentView.swift; sourceTree = "<group>"; };
+		94433DAF29117BC100EAF1CA /* TopKarteView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopKarteView.swift; sourceTree = "<group>"; };
+		94433DB029117BC100EAF1CA /* KarteUserDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KarteUserDetailView.swift; sourceTree = "<group>"; };
+		94433DD529117C0000EAF1CA /* TopMyPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopMyPageView.swift; sourceTree = "<group>"; };
+		94433DDC29117C2F00EAF1CA /* MultiSelectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultiSelectView.swift; sourceTree = "<group>"; };
+		94433DDE29117C3B00EAF1CA /* MyCalendarViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCalendarViewModel.swift; sourceTree = "<group>"; };
+		94433DE029117C4600EAF1CA /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		94433DE129117C4600EAF1CA /* EventCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventCell.swift; sourceTree = "<group>"; };
+		94433DE229117C4600EAF1CA /* MyCalendarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCalendarView.swift; sourceTree = "<group>"; };
+		94433DE329117C4600EAF1CA /* DetailCalendarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailCalendarView.swift; sourceTree = "<group>"; };
+		94433DE829117C7B00EAF1CA /* BellezaHairDresserApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BellezaHairDresserApp.swift; sourceTree = "<group>"; };
+		94433DE929117C7B00EAF1CA /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		94433D7029117A7500EAF1CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94D7C10D2913746100B1011A /* InfiniteCalendar in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94433D8029117A7800EAF1CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94433D8A29117A7800EAF1CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		94433D6A29117A7500EAF1CA = {
+			isa = PBXGroup;
+			children = (
+				94433D7529117A7500EAF1CA /* BellezaHairDresserApp */,
+				94433D8629117A7800EAF1CA /* BellezaHairDresserAppTests */,
+				94433D9029117A7800EAF1CA /* BellezaHairDresserAppUITests */,
+				94433D7429117A7500EAF1CA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		94433D7429117A7500EAF1CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				94433D7329117A7500EAF1CA /* BellezaHairDresserApp.app */,
+				94433D8329117A7800EAF1CA /* BellezaHairDresserAppTests.xctest */,
+				94433D8D29117A7800EAF1CA /* BellezaHairDresserAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		94433D7529117A7500EAF1CA /* BellezaHairDresserApp */ = {
+			isa = PBXGroup;
+			children = (
+				94433DD729117C0400EAF1CA /* Schedule */,
+				94433DD429117BF700EAF1CA /* MyPage */,
+				94433DAC29117BB100EAF1CA /* Karte */,
+				94433DA029117B7A00EAF1CA /* MyBiyouCard */,
+				94433DE829117C7B00EAF1CA /* BellezaHairDresserApp.swift */,
+				94433DE929117C7B00EAF1CA /* DetailView.swift */,
+				94433D7829117A7500EAF1CA /* ContentView.swift */,
+				94433D7A29117A7700EAF1CA /* Assets.xcassets */,
+				94433D7C29117A7800EAF1CA /* Preview Content */,
+			);
+			path = BellezaHairDresserApp;
+			sourceTree = "<group>";
+		};
+		94433D7C29117A7800EAF1CA /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				94433D7D29117A7800EAF1CA /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		94433D8629117A7800EAF1CA /* BellezaHairDresserAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				94433D8729117A7800EAF1CA /* BellezaHairDresserAppTests.swift */,
+			);
+			path = BellezaHairDresserAppTests;
+			sourceTree = "<group>";
+		};
+		94433D9029117A7800EAF1CA /* BellezaHairDresserAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				94433D9129117A7800EAF1CA /* BellezaHairDresserAppUITests.swift */,
+				94433D9329117A7800EAF1CA /* BellezaHairDresserAppUITestsLaunchTests.swift */,
+			);
+			path = BellezaHairDresserAppUITests;
+			sourceTree = "<group>";
+		};
+		94433DA029117B7A00EAF1CA /* MyBiyouCard */ = {
+			isa = PBXGroup;
+			children = (
+				94433DA229117B8E00EAF1CA /* OfficialCardView.swift */,
+				94433DA329117B8E00EAF1CA /* PrivateCardView.swift */,
+				94433DA129117B8E00EAF1CA /* SnapCardView.swift */,
+				94433DA429117B8E00EAF1CA /* TopMyBiyouCardView.swift */,
+			);
+			path = MyBiyouCard;
+			sourceTree = "<group>";
+		};
+		94433DAC29117BB100EAF1CA /* Karte */ = {
+			isa = PBXGroup;
+			children = (
+				94433DB029117BC100EAF1CA /* KarteUserDetailView.swift */,
+				94433DAD29117BC100EAF1CA /* KarteUserListDetailHistoryView.swift */,
+				94433DAE29117BC100EAF1CA /* SegmentView.swift */,
+				94433DAF29117BC100EAF1CA /* TopKarteView.swift */,
+			);
+			path = Karte;
+			sourceTree = "<group>";
+		};
+		94433DD429117BF700EAF1CA /* MyPage */ = {
+			isa = PBXGroup;
+			children = (
+				94433DD529117C0000EAF1CA /* TopMyPageView.swift */,
+			);
+			path = MyPage;
+			sourceTree = "<group>";
+		};
+		94433DD729117C0400EAF1CA /* Schedule */ = {
+			isa = PBXGroup;
+			children = (
+				94433DDB29117C2400EAF1CA /* View */,
+				94433DDA29117C1E00EAF1CA /* ViewModel */,
+				94433DD929117C1700EAF1CA /* Model */,
+				94433DD829117C1200EAF1CA /* Util */,
+			);
+			path = Schedule;
+			sourceTree = "<group>";
+		};
+		94433DD829117C1200EAF1CA /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				94433DDC29117C2F00EAF1CA /* MultiSelectView.swift */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
+		94433DD929117C1700EAF1CA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		94433DDA29117C1E00EAF1CA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				94433DDE29117C3B00EAF1CA /* MyCalendarViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		94433DDB29117C2400EAF1CA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				94433DE329117C4600EAF1CA /* DetailCalendarView.swift */,
+				94433DE129117C4600EAF1CA /* EventCell.swift */,
+				94433DE229117C4600EAF1CA /* MyCalendarView.swift */,
+				94433DE029117C4600EAF1CA /* Settings.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		94433D7229117A7500EAF1CA /* BellezaHairDresserApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94433D9729117A7800EAF1CA /* Build configuration list for PBXNativeTarget "BellezaHairDresserApp" */;
+			buildPhases = (
+				94433D6F29117A7500EAF1CA /* Sources */,
+				94433D7029117A7500EAF1CA /* Frameworks */,
+				94433D7129117A7500EAF1CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BellezaHairDresserApp;
+			packageProductDependencies = (
+				94D7C10C2913746100B1011A /* InfiniteCalendar */,
+			);
+			productName = BellezaHairDresserApp;
+			productReference = 94433D7329117A7500EAF1CA /* BellezaHairDresserApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		94433D8229117A7800EAF1CA /* BellezaHairDresserAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94433D9A29117A7800EAF1CA /* Build configuration list for PBXNativeTarget "BellezaHairDresserAppTests" */;
+			buildPhases = (
+				94433D7F29117A7800EAF1CA /* Sources */,
+				94433D8029117A7800EAF1CA /* Frameworks */,
+				94433D8129117A7800EAF1CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94433D8529117A7800EAF1CA /* PBXTargetDependency */,
+			);
+			name = BellezaHairDresserAppTests;
+			productName = BellezaHairDresserAppTests;
+			productReference = 94433D8329117A7800EAF1CA /* BellezaHairDresserAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		94433D8C29117A7800EAF1CA /* BellezaHairDresserAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94433D9D29117A7800EAF1CA /* Build configuration list for PBXNativeTarget "BellezaHairDresserAppUITests" */;
+			buildPhases = (
+				94433D8929117A7800EAF1CA /* Sources */,
+				94433D8A29117A7800EAF1CA /* Frameworks */,
+				94433D8B29117A7800EAF1CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94433D8F29117A7800EAF1CA /* PBXTargetDependency */,
+			);
+			name = BellezaHairDresserAppUITests;
+			productName = BellezaHairDresserAppUITests;
+			productReference = 94433D8D29117A7800EAF1CA /* BellezaHairDresserAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		94433D6B29117A7500EAF1CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					94433D7229117A7500EAF1CA = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+					94433D8229117A7800EAF1CA = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = 94433D7229117A7500EAF1CA;
+					};
+					94433D8C29117A7800EAF1CA = {
+						CreatedOnToolsVersion = 14.0.1;
+						TestTargetID = 94433D7229117A7500EAF1CA;
+					};
+				};
+			};
+			buildConfigurationList = 94433D6E29117A7500EAF1CA /* Build configuration list for PBXProject "BellezaHairDresserApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 94433D6A29117A7500EAF1CA;
+			packageReferences = (
+				94D7C10B2913746100B1011A /* XCRemoteSwiftPackageReference "InfiniteCalendar" */,
+			);
+			productRefGroup = 94433D7429117A7500EAF1CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				94433D7229117A7500EAF1CA /* BellezaHairDresserApp */,
+				94433D8229117A7800EAF1CA /* BellezaHairDresserAppTests */,
+				94433D8C29117A7800EAF1CA /* BellezaHairDresserAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		94433D7129117A7500EAF1CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94433D7E29117A7800EAF1CA /* Preview Assets.xcassets in Resources */,
+				94433D7B29117A7700EAF1CA /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94433D8129117A7800EAF1CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94433D8B29117A7800EAF1CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		94433D6F29117A7500EAF1CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94433D7929117A7500EAF1CA /* ContentView.swift in Sources */,
+				94433DB229117BC100EAF1CA /* SegmentView.swift in Sources */,
+				94433DEB29117C7C00EAF1CA /* DetailView.swift in Sources */,
+				94433DB129117BC100EAF1CA /* KarteUserListDetailHistoryView.swift in Sources */,
+				94433DEA29117C7C00EAF1CA /* BellezaHairDresserApp.swift in Sources */,
+				94433DA529117B8E00EAF1CA /* SnapCardView.swift in Sources */,
+				94433DD629117C0000EAF1CA /* TopMyPageView.swift in Sources */,
+				94433DE629117C4600EAF1CA /* MyCalendarView.swift in Sources */,
+				94433DE529117C4600EAF1CA /* EventCell.swift in Sources */,
+				94433DA729117B8E00EAF1CA /* PrivateCardView.swift in Sources */,
+				94433DDD29117C2F00EAF1CA /* MultiSelectView.swift in Sources */,
+				94433DA629117B8E00EAF1CA /* OfficialCardView.swift in Sources */,
+				94433DB329117BC100EAF1CA /* TopKarteView.swift in Sources */,
+				94433DE729117C4600EAF1CA /* DetailCalendarView.swift in Sources */,
+				94433DDF29117C3B00EAF1CA /* MyCalendarViewModel.swift in Sources */,
+				94433DE429117C4600EAF1CA /* Settings.swift in Sources */,
+				94433DA829117B8E00EAF1CA /* TopMyBiyouCardView.swift in Sources */,
+				94433DB429117BC100EAF1CA /* KarteUserDetailView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94433D7F29117A7800EAF1CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94433D8829117A7800EAF1CA /* BellezaHairDresserAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94433D8929117A7800EAF1CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94433D9229117A7800EAF1CA /* BellezaHairDresserAppUITests.swift in Sources */,
+				94433D9429117A7800EAF1CA /* BellezaHairDresserAppUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		94433D8529117A7800EAF1CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94433D7229117A7500EAF1CA /* BellezaHairDresserApp */;
+			targetProxy = 94433D8429117A7800EAF1CA /* PBXContainerItemProxy */;
+		};
+		94433D8F29117A7800EAF1CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 94433D7229117A7500EAF1CA /* BellezaHairDresserApp */;
+			targetProxy = 94433D8E29117A7800EAF1CA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		94433D9529117A7800EAF1CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		94433D9629117A7800EAF1CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		94433D9829117A7800EAF1CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BellezaHairDresserApp/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Belleza.BellezaHairDresserApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		94433D9929117A7800EAF1CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BellezaHairDresserApp/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Belleza.BellezaHairDresserApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		94433D9B29117A7800EAF1CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Belleza.BellezaHairDresserAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BellezaHairDresserApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BellezaHairDresserApp";
+			};
+			name = Debug;
+		};
+		94433D9C29117A7800EAF1CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Belleza.BellezaHairDresserAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BellezaHairDresserApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BellezaHairDresserApp";
+			};
+			name = Release;
+		};
+		94433D9E29117A7800EAF1CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Belleza.BellezaHairDresserAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BellezaHairDresserApp;
+			};
+			name = Debug;
+		};
+		94433D9F29117A7800EAF1CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Belleza.BellezaHairDresserAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BellezaHairDresserApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		94433D6E29117A7500EAF1CA /* Build configuration list for PBXProject "BellezaHairDresserApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94433D9529117A7800EAF1CA /* Debug */,
+				94433D9629117A7800EAF1CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94433D9729117A7800EAF1CA /* Build configuration list for PBXNativeTarget "BellezaHairDresserApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94433D9829117A7800EAF1CA /* Debug */,
+				94433D9929117A7800EAF1CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94433D9A29117A7800EAF1CA /* Build configuration list for PBXNativeTarget "BellezaHairDresserAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94433D9B29117A7800EAF1CA /* Debug */,
+				94433D9C29117A7800EAF1CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94433D9D29117A7800EAF1CA /* Build configuration list for PBXNativeTarget "BellezaHairDresserAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94433D9E29117A7800EAF1CA /* Debug */,
+				94433D9F29117A7800EAF1CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		94D7C10B2913746100B1011A /* XCRemoteSwiftPackageReference "InfiniteCalendar" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/shohe/InfiniteCalendar";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.2.9;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		94D7C10C2913746100B1011A /* InfiniteCalendar */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 94D7C10B2913746100B1011A /* XCRemoteSwiftPackageReference "InfiniteCalendar" */;
+			productName = InfiniteCalendar;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 94433D6B29117A7500EAF1CA /* Project object */;
+}
